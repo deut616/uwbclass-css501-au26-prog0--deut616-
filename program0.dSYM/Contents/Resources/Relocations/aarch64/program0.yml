@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/danielkim/CSS501/prog0/program0'
+relocations:     []
+...
